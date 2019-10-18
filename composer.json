@@ -1,6 +1,6 @@
 {
-    "name": "fasaro/magento2-es_mx-language-pack",
-    "description": "Spanish (Mexico) language package for Magento 2",
+    "name": "fasaro/magento2-es_es-language-pack",
+    "description": "Spanish (España) language package for Magento 2",
     "version": "2.3.0",
     "license": [
         "MIT"
